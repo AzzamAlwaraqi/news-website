@@ -1,0 +1,6 @@
+# Database and sessions are created when the site first runs
+data/
+
+# Pictures uploaded through the admin page
+public/uploads/*
+!public/uploads/.gitkeep
